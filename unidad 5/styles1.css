@@ -1,0 +1,92 @@
+.topline {
+    background: rgba(255, 0, 0, 0.87);
+    background: linear-gradient(90deg, rgba(255, 0, 0, 0.87) 0%, #000000 50%);
+    background: -webkit-linear-gradient(90deg, rgba(255, 0, 0, 0.87) 0%, #000000 50%);
+    background: -moz-linear-gradient(90deg, rgba(255, 0, 0, 0.87) 0%, #000000 50%);
+    column-count: 4;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0;
+}
+
+h1 {
+    width: 345px;
+    text-align: center;
+    margin-left: 45%;
+
+}
+
+h2 {
+    font-style: italic;
+}
+
+p {
+    font-weight: bold;
+    font-size: 25 px;
+}
+
+.forTitulo {
+    font-family: Arial;
+    color: grey;
+    background-color: whitesmoke;
+}
+
+.estiloRojo {
+    color: rgba(155, 7, 7, 0.855);
+}
+
+.estiloVerde {
+    color: rgb(47, 255, 193);
+}
+
+#caja1 {
+    text-align: center;
+    background-color: rgba(180, 34, 34, 0.542);
+    width: 300px;
+    color: grey;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 24px 28px 8px 1px rgba(87, 82, 82, 0.75);
+    -webkit-box-shadow: 24px 28px 8px 1px rgba(87, 82, 82, 0.75);
+    -moz-box-shadow: 24px 28px 8px 1px rgba(87, 82, 82, 0.75);
+
+}
+
+#caja2 {
+    text-align: center;
+    background-color: rgba(46, 141, 127, 0.542);
+    width: 300px;
+    color: grey;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 24px 28px 8px 1px rgba(87, 82, 82, 0.75);
+    -webkit-box-shadow: 24px 28px 8px 1px rgba(87, 82, 82, 0.75);
+    -moz-box-shadow: 24px 28px 8px 1px rgba(87, 82, 82, 0.75);
+
+}
+
+#caja3 {
+    text-align: center;
+    background-color: rgba(40, 36, 36, 0.542);
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 24px 28px 8px 1px rgba(87, 82, 82, 0.75);
+    -webkit-box-shadow: 24px 28px 8px 1px rgba(87, 82, 82, 0.75);
+    -moz-box-shadow: 24px 28px 8px 1px rgba(87, 82, 82, 0.75);
+}
+
+.enlistar {
+    column-count: 3;
+    margin-left: 10%;
+}
+
+.descinit {
+    background: rgba(212, 10, 10, 0.918);
+    color: rgb(0, 0, 0);
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+
+}
